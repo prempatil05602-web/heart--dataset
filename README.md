@@ -1,0 +1,1 @@
+"Through this workshop, I learned about the core concepts of Machine Learning, including the differences between supervised and unsupervised learning. I practiced setting up a development environment in Google Colab and learned how to manipulate data and visualize trends, which helped me better understand how data drives predictive modeling."
